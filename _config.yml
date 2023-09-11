@@ -1,0 +1,8 @@
+title: Vitalii Grebnev
+description: Hi, I am applied mathematition and work as Reinforcement learning enginner in telecom. 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
